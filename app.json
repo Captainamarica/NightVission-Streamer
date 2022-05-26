@@ -1,32 +1,32 @@
 {
-    "name": "Video Stream ",
-    "description": "Video Stream Telegram Bot",
+    "name": "Night Vission Video Stream ",
+    "description": "Night VissionVideo Stream Bot",
     "keywords": [
         "Video Stream ",
         "pytgcalss"
     ],
-    "repository": "https://github.com/lntechnical2/videostream",
+    "repository": "https://github.com/Captainamarica/NightVission-Streamer",
     "success_url": "https://telegram.dog/lntechnical",
     "env": {
         "CHAT": {
             "description": "Channel or Group user Name With @",
-            "value": ""
+            "value": "videostreamernightvission"
          },
         "SESSION_NAME": {
             "description": "Pyrogram String Session",
-            "value": ""
+            "value": "BQCVlc4PnYyQmKfstcAqm3QLJP8dhDAmx6om4w42KzYt3pHzkMdb8G2HNJIgiN1ThZAsscRjyV59UwX86Jr8UqLt9FJJybEvNGg3NDSTF6_TOHE5l1m7r8xzq7SgALfomqXHw_GlHAhu1HRGiuvQYqGr1MnI0Sl0bMN_XdVycqcqrEq4c0et5ui_7pK06sU-iBKfbBsP7lDgcAg8kFCQty7i0JsKOYA1K93U-7WbFFzpQ0V5uLFDNWadRVIWnep4r8oKKoWF2234cNsDcnbKpoct29Jd4d_oEQiXEh_HRdB3n0Cv3yMqMDfM2SOD5SEswZCY8rsVKZkdBsL0DAil7bE8AAAAATW_Lt4A"
         },
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "16884543"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "cc4535cefe1fa2e167d75a5e2ac24246"
         },
         "TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "5323448516:AAHFltf1R41M0ASdxFi3np5xM9FNOA1ry84"
         },
         "ADMIN": {
             "description":"Add Your User ID"
